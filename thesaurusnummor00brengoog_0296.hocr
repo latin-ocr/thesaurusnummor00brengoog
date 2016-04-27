@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurusnummor00brengoog_0296.png"; bbox 0 0 1085 1333; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 150 1111 379 1137">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 150 1111 379 1137">
+     <span class='ocr_line' id='line_1_1' title="bbox 150 1111 379 1137; baseline 0 -9"><span class='ocrx_word' id='word_1_1' title='bbox 150 1114 195 1128; x_wconf 62' lang='lat' dir='ltr'><em>tta:</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 199 1113 314 1132; x_wconf 54' lang='lat' dir='ltr'><em>Arvina-punt</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 320 1111 379 1137; x_wconf 42' lang='lat' dir='ltr'><em>aſsub&lt;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

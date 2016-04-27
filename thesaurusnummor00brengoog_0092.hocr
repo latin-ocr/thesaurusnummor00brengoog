@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurusnummor00brengoog_0092.png"; bbox 0 0 1085 1333; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 160 906 1073">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 106 160 906 1073">
+     <span class='ocr_line' id='line_1_1' title="bbox 422 160 637 176; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 422 160 637 176; x_wconf 63' lang='lat' dir='ltr'>cflmsrtsnnvsn.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 109 842 112 850; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 109 842 112 850; x_wconf 54' lang='lat'>2</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 111 1009 117 1017; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 111 1009 117 1017; x_wconf 47' lang='lat'><em>⁵</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 109 1027 129 1046; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 109 1027 114 1043; x_wconf 75' lang='lat'>1</span> <span class='ocrx_word' id='word_1_5' title='bbox 128 1039 129 1046; x_wconf 38' lang='grc' dir='ltr'>η</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 106 1054 906 1073; baseline 0.011 -12"><span class='ocrx_word' id='word_1_6' title='bbox 106 1054 113 1070; x_wconf 26' lang='lat'>⁴,-</span> <span class='ocrx_word' id='word_1_7' title='bbox 135 1058 201 1065; x_wconf 51' lang='lat' dir='ltr'>-W</span> <span class='ocrx_word' id='word_1_8' title='bbox 273 1063 275 1065; x_wconf 70' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 296 1058 321 1064; x_wconf 69' lang='grc'>.,,,</span> <span class='ocrx_word' id='word_1_10' title='bbox 341 1058 344 1060; x_wconf 88' lang='grc'>-</span> <span class='ocrx_word' id='word_1_11' title='bbox 886 1055 906 1073; x_wconf 68' lang='grc' dir='ltr'>γ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 110 1073 895 1109">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 110 1073 895 1109">
+     <span class='ocr_line' id='line_1_6' title="bbox 110 1073 895 1109; baseline -0.001 -14"><span class='ocrx_word' id='word_1_12' title='bbox 110 1073 116 1099; x_wconf 72' lang='grc' dir='ltr'>ξ.</span> <span class='ocrx_word' id='word_1_13' title='bbox 146 1080 317 1103; x_wconf 47' lang='lat' dir='ltr'>maffia-austra.</span> <span class='ocrx_word' id='word_1_14' title='bbox 347 1102 350 1104; x_wconf 84' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 635 1102 638 1105; x_wconf 24' lang='grc' dir='ltr'><strong><em>Δ</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 724 1080 895 1109; x_wconf 30' lang='lat' dir='ltr'>noy-mamm,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
